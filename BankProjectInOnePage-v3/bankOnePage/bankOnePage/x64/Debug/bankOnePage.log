@@ -1,0 +1,5 @@
+﻿  bankOnePage.cpp
+C:\Users\Technosoft\OneDrive\Desktop\BankProjectInOnePage-v3\bankOnePage\bankOnePage\bankOnePage.cpp(37,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Technosoft\OneDrive\Desktop\BankProjectInOnePage-v3\bankOnePage\bankOnePage\bankOnePage.cpp(331,32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Technosoft\OneDrive\Desktop\BankProjectInOnePage-v3\bankOnePage\bankOnePage\bankOnePage.cpp(372,32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  bankOnePage.vcxproj -> C:\Users\Technosoft\OneDrive\Desktop\BankProjectInOnePage-v3\bankOnePage\x64\Debug\bankOnePage.exe
